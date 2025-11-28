@@ -1,31 +1,25 @@
-Coder Review 
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>  
-<i>Una lista de Readmes asombrosos de personas asombrosas</i>  
-<a href="https://github.com/AchuryMs/github-perfil-readme-asombrosos/stargazers"><img src="https://img.shields.io/github/stars/AchuryMs/github-perfil-readme-asombrosos" alt="Stars Badge"/></a>  
-<a href="https://github.com/AchuryMs/github-perfil-readme-asombrosos/issues"><img src="https://img.shields.io/github/issues/AchuryMs/github-perfil-readme-asombrosos" alt="Issues Badge"/></a>  
-<a href="https://github.com/AchuryMs/github-perfil-readme-asombrosos/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AchuryMs/github-perfil-readme-asombrosos?color=2b9348" alt="License Badge"/></a>  
-</div>  
+# 💫 About Me:
+🔭 I’m currently working on a react dashboard<br>👯 I’m looking to collaborate on frontend projects<br>🤝 I’m looking for help with nginx<br>🌱 I’m currently learning frontend frameworks<br>💬 Ask me about react
 
-## Categorías  
-- **Github Actions 🤖**: [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt), [Brian Douglas](https://github.com/bdougie/bdougie)  
-- **Tipo Juego 🚀**: [Tim Burgan](https://github.com/timburgan/timburgan), [Evaristo Cuesta](https://github.com/evaristocuesta/evaristocuesta)  
-- **Minimalista ✨**: [Caneco](https://github.com/caneco/), [Gift Egwuenu](https://github.com/lauragift21/lauragift21)  
-- [Más categorías aquí](#categorias).  
 
-## Herramientas  
-- [Visitor Badge](https://visitor-badge.glitch.me/#docs)  
-- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)  
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
-- [Más herramientas aquí](#tools).  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achuryms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchez-am) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:achury.sp@gmail..com) 
 
-## Recursos  
-- **Artículos**: ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)  
-- **Tutoriales**: ["CREA tu Github README Profile"](https://youtu.be/1eEnboVooiY)  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AchuryMs&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AchuryMs&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AchuryMs&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Contribuye  
-¡Todas las contribuciones son bienvenidas! Revisa nuestra [guía de contribución](contributing.md).  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AchuryMs&theme=holi&no-frame=false&no-bg=false&margin-w=4)
 
-## Licencia  
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)  
-```  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AchuryMs&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AchuryMs&icon=2&color=1)](https://visitcount.itsvg.in)
