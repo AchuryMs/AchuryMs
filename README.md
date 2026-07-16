@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there! 👋 I'm Miguel Achury
 
 ### Frontend Developer | Systems Engineering Student | UI/UX Enthusiast
